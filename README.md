@@ -89,6 +89,7 @@ A documentação completa do projeto está disponível na pasta `/docs`.
 |---|---|---|
 | Nicole Flaminio | nicole.flaminio@a.ucb.br | Coautora |
 | Matheus Neiva | matheus.neiva@a.ucb.br | Coautor |
+| Paulo Gustavo | paulo.gmartins@a.ucb.br | Coautor |
 
 ---
 
